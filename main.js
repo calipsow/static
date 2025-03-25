@@ -1,0 +1,2 @@
+AOS.init({once:!1,disable:!1,duration:500,easing:"ease-out-cubic"});const carouselEl=document.querySelectorAll(".carousel");if(carouselEl.length>0){const carousel=new Swiper(".carousel",{breakpoints:{320:{slidesPerView:1},640:{slidesPerView:2},1024:{slidesPerView:3}},grabCursor:!0,loop:!1,centeredSlides:!1,initialSlide:0,spaceBetween:24,autoplay:{delay:7e3},navigation:{nextEl:".carousel-next",prevEl:".carousel-prev"}})}
+//# sourceMappingURL=/s/files/1/0655/5087/6900/files/main.js.map
